@@ -11,7 +11,7 @@ const goats = [
   },
   {
     id: 'goat2',
-    name: 'billy',
+    name: 'nanny',
     disposition: 'rude',
     imageUrl: 'https://pbs.twimg.com/profile_images/893499230853230593/RL_rZ3q2_400x400.jpg',
     fullness: '34',
@@ -21,7 +21,7 @@ const goats = [
   },
   {
     id: 'goat3',
-    name: 'billy',
+    name: 'chilly',
     disposition: 'funny',
     imageUrl: 'https://www.theprairiehomestead.com/wp-content/uploads/2014/11/Oreo-the-Goat.jpg',
     fullness: '12',
@@ -31,7 +31,7 @@ const goats = [
   },
   {
     id: 'goat4',
-    name: 'billy',
+    name: 'twilly',
     disposition: 'playful',
     imageUrl: 'https://img.buzzfeed.com/buzzfeed-static/static/enhanced/webdr02/2013/7/8/11/enhanced-buzz-31618-1373297919-21.jpg?downsize=700%3A%2A&output-quality=auto&output-format=auto&output-quality=auto&output-format=auto&downsize=360:*',
     fullness: '99',
@@ -41,7 +41,7 @@ const goats = [
   },
   {
     id: 'goat5',
-    name: 'billy',
+    name: 'yanny',
     disposition: 'weird',
     imageUrl: 'http://rmpgclub.com/wp-content/uploads/2018/07/Skipper-3-300x266.jpg',
     fullness: '56',
